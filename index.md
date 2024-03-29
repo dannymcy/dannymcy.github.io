@@ -9,7 +9,7 @@ I am a Ph.D. student in Computer Science at the [University of Oxford](https://w
 
 ## Research Interests
 
-My main research interest focuses on developing intelligent agents that live in both virtual and physical worlds. So far, my Ph.D. work falls in the intersection of 3D Understanding and Robot Learning.
+My main research interest focuses on Mixed Reality and developing intelligent agents that live in both virtual and physical worlds. So far, my Ph.D. work falls in the intersection of 3D Understanding, Robot Learning, and Computer Vision.
 
 <!-- My Ph.D. work mainly builds on two closely-related questions: -->
 
