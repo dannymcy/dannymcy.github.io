@@ -7,14 +7,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/paper_teasers/sip.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <img src="assets/img/paper_teasers/spatialpin.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">See, Imagine, Plan: Discovering and Hallucinating Tasks from a Single Image</div>
+    <div class="title">SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ta-Ying Cheng, Niki Trigoni, Andrew Markham</div>
-    <div class="periodical"><em><strong>ArXiv</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2403.13438" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
