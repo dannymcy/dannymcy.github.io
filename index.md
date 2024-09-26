@@ -9,7 +9,9 @@ I am a Ph.D. student in Computer Science at the [University of Oxford](https://w
 Prior to my Ph.D., I worked as a research assistant in [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), supervised by Prof. [Nicholas Lane](https://niclane.org/). I obtained my B.S.E. degree from [University of Michigan](https://umich.edu/), completing multiple projects under the guidances of Prof. [Andrew Owens](https://andrewowens.com/), Prof. [Wenzhen Yuan](http://robotouch.ri.cmu.edu/yuanwz/), and Prof. [Paul Green](https://www.umtri.umich.edu/people/green-paul-a/).
 
 <p style="color:red;">I am actively looking for a research internship for Summer 2025. Feel free to contact me for any research opportunities!</p>
-<!-- <br> -->
+
+
+<p style="margin-top: 40px;"></p>
 
 ## Research Interests
 
@@ -21,7 +23,9 @@ My main research interest focuses on developing human-centered intelligent agent
 2. Can we use features from 3D space to enhance the capabilities of image generative models? -->
 
 On the side, I also enjoy working with vision applications that utilize various modalities (Vision, Tactile) and AI methods that are less centralized and more collaborative (Federated Learning).
-<br>
+
+
+<p style="margin-top: 40px;"></p>
 
 ## News
 <!-- - **[Feb. 2024]** Our paper Continuous 3D Words got accepted into CVPR 2024! Check out our work [here](http://ttchengab.github.io/continuous_3d_words/)!
@@ -34,8 +38,11 @@ On the side, I also enjoy working with vision applications that utilize various 
 - **[Jul. 2024]** Started my internship at Roku Advanced Development! (Mentor: [Michael Sanders](http://linkedin.com/in/michael-sanders-8b52b1164))
 - **[Jun. 2024]** Started my research collaboration with Meta FAIR! (Mentors: [Xavier Puig](https://www.xavierpuigf.com/), [Ruta Desai](https://rutadesai.github.io/))
 - **[Oct. 2023]** Started my Ph.D. journey at the University of Oxford.
-<br>
 
+
+<p style="margin-top: 40px;"></p>
 {% include_relative _includes/publications.md %}
 
+
+<p style="margin-top: 40px;"></p>
 {% include_relative _includes/services.md %}
