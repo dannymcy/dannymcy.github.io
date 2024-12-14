@@ -16,12 +16,12 @@ Prior to my Ph.D., I worked as a research assistant in [Cambridge Machine Learni
 
 ## Research Interests
 
-My main research interest focuses on developing human-centered intelligent agents that live in both virtual and physical worlds. So far, my Ph.D. work falls in the intersection of 3D Understanding, Robot Learning, and Computer Vision.
+My main research interest focuses on developing human-centered embodied and AI agents in open-world settings. My Ph.D. work mainly builds on three closely-related questions:
+<!-- So far, my Ph.D. work falls in the intersection of 3D Understanding, Robot Learning, and Computer Vision. -->
 
-<!-- My Ph.D. work mainly builds on two closely-related questions: -->
-
-<!-- 1. Can we generate datasets of 3D shape with high fidelity and establish pose correspondences from large-scale in-the-wild 2D images?
-2. Can we use features from 3D space to enhance the capabilities of image generative models? -->
+1. Most agents today use VLMs/VLAs as their core reasoning component. How can we enhance their reasoning and planning capabilities in dynamic 3D environments, and bridge the gap from visual perception and task descriptions in texts to agent actions?
+2. How can we represent humans within robot simulation platforms, considering factors such as motion feasibility, human-object interactions, and extending to human preferences, traits, and habits?
+3. How can we design systems and frameworks that allow us to study open-ended human-robot, accommodating humans' preferences, needs, and spontaneous intentions?
 
 On the side, I also enjoy working with vision applications that utilize various modalities (Vision, Tactile) and AI methods that are less centralized and more collaborative (Federated Learning).
 
