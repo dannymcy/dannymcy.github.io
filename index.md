@@ -35,6 +35,7 @@ On the side, I also enjoy working with vision applications that utilize various 
 - **[Jul. 2023]** Our paper 3DMiner got accepted into ICCV 2023!
 - **[May. 2023]** Started my second internship at Adobe Research! (Mentors: [Matheus Gadelha](http://mgadelha.me), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/))
 - **[Dec. 2022]** Defended my [Transfer of Status](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/), [Prof. Ronald Clark](https://www.ron-clark.com)). -->
+- **[Jan. 2025]** Defended my [Transfer of Status](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: Prof. [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/), Prof. [Ioannis Havoutis](https://ihavoutis.github.io/)).
 - **[Sep. 2024]** Our paper SpatialPIN got accepted into NeurIPS 2024!
 - **[Jul. 2024]** Started my internship at Roku Advanced Development! (Mentor: [Michael Sanders](http://linkedin.com/in/michael-sanders-8b52b1164))
 - **[Jun. 2024]** Started my research collaboration with Meta FAIR! (Mentors: [Xavier Puig](https://www.xavierpuigf.com/), [Ruta Desai](https://rutadesai.github.io/))
