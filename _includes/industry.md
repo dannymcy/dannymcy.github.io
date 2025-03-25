@@ -6,8 +6,8 @@
 
       <!-- Meta FAIR -->
       <div class="pub-row" style="display: flex; align-items: center;">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 20px;">
-          <img src="assets/img/company_logos/meta.png" style="max-height: 133px; width: auto; max-width: 100%;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 22px;"> 
+          <img src="assets/img/company_logos/meta.png" style="max-height: 165px; width: auto; max-width: 100%;">
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
@@ -19,8 +19,8 @@
 
       <!-- Roku -->
       <div class="pub-row" style="display: flex; align-items: center;">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 20px;">
-          <img src="assets/img/company_logos/roku.jpg" style="max-height: 133px; width: auto; max-width: 100%;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 22px;">
+          <img src="assets/img/company_logos/roku.jpg" style="max-height: 165px; width: auto; max-width: 100%;">
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
@@ -32,8 +32,8 @@
 
       <!-- Flower Labs -->
       <div class="pub-row" style="display: flex; align-items: center;">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 20px;">
-          <img src="assets/img/company_logos/flower.jpg" style="max-height: 133px; width: auto; max-width: 100%;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;display: flex;justify-content: center;align-items: center;margin-right: 22px;">
+          <img src="assets/img/company_logos/flower.jpg" style="max-height: 165px; width: auto; max-width: 100%;">
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
