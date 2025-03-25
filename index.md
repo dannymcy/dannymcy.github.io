@@ -45,9 +45,9 @@ On the side, I also enjoy working with vision applications that utilize various 
 <p style="margin-top: 40px;"></p>
 {% include_relative _includes/publications.md %}
 
+<p style="margin-top: 40px;"></p>
+{% include_relative _includes/industry.md %}
 
 <p style="margin-top: 40px;"></p>
 {% include_relative _includes/services.md %}
 
-<p style="margin-top: 40px;"></p>
-{% include_relative _includes/industry.md %}

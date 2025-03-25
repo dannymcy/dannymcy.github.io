@@ -15,7 +15,7 @@
 
       <!-- Roku -->
       <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
-        <img src="assets/img/company_logos/roku.png" style="height: 133px; width: auto;">
+        <img src="assets/img/company_logos/roku.jpg" style="height: 133px; width: auto;">
         <div style="line-height: 1.4;">
           <div style="font-weight: bold; font-size: 16px;">Applied Scientist Intern</div>
           <div style="font-style: italic;">Roku — Jul 2024 to Oct 2024</div>
