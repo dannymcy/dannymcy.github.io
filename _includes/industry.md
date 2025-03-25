@@ -5,7 +5,7 @@
     <li>
 
       <!-- Meta FAIR -->
-      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
         <img src="assets/img/company_logos/meta.png" style="height: 133px; width: auto;">
         <div style="line-height: 1.4;">
           <div style="font-weight: bold; font-size: 16px;">Research Collaborator</div>
@@ -14,7 +14,7 @@
       </div>
 
       <!-- Roku -->
-      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
         <img src="assets/img/company_logos/roku.png" style="height: 133px; width: auto;">
         <div style="line-height: 1.4;">
           <div style="font-weight: bold; font-size: 16px;">Applied Scientist Intern</div>
@@ -23,7 +23,7 @@
       </div>
 
       <!-- Flower Labs -->
-      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
         <img src="assets/img/company_logos/flower.jpg" style="height: 133px; width: auto;">
         <div style="line-height: 1.4;">
           <div style="font-weight: bold; font-size: 16px;">Research Scientist Intern</div>
