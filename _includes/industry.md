@@ -1,6 +1,6 @@
 <h2 id="industry" style="margin: 2px 0px -15px;">Industry Experience</h2>
 
-<div class="publications" style="margin-left: 40px;">
+<div class="publications" style="margin-left: 45px;">
   <ol class="bibliography">
     <li>
 
