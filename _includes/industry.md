@@ -5,35 +5,29 @@
     <li>
 
       <!-- Meta FAIR -->
-      <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="margin-right: 20px;">
-          <img src="assets/img/company_logos/meta.png" style="max-height: 60px; max-width: 150px; object-fit: contain;">
-        </div>
-        <div>
-          <div class="title">Research Collaborator</div>
-          <div class="periodical"><em>FAIR, Meta — June 2024 to April 2025</em></div>
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+        <img src="assets/img/company_logos/meta.png" style="height: 60px; width: auto;">
+        <div style="line-height: 1.4;">
+          <div style="font-weight: bold; font-size: 16px;">Research Collaborator</div>
+          <div style="font-style: italic;">FAIR, Meta — June 2024 to April 2025</div>
         </div>
       </div>
 
       <!-- Roku -->
-      <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="margin-right: 20px;">
-          <img src="assets/img/company_logos/roku.png" style="max-height: 60px; max-width: 150px; object-fit: contain;">
-        </div>
-        <div>
-          <div class="title">Applied Scientist Intern</div>
-          <div class="periodical"><em>Roku — Jul 2024 to Oct 2024</em></div>
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+        <img src="assets/img/company_logos/roku.png" style="height: 60px; width: auto;">
+        <div style="line-height: 1.4;">
+          <div style="font-weight: bold; font-size: 16px;">Applied Scientist Intern</div>
+          <div style="font-style: italic;">Roku — Jul 2024 to Oct 2024</div>
         </div>
       </div>
 
       <!-- Flower Labs -->
-      <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="margin-right: 20px;">
-          <img src="assets/img/company_logos/flower.jpg" style="max-height: 60px; max-width: 150px; object-fit: contain;">
-        </div>
-        <div>
-          <div class="title">Research Scientist Intern</div>
-          <div class="periodical"><em>Flower Labs — Oct 2022 to July 2023</em></div>
+      <div class="pub-row" style="display: flex; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
+        <img src="assets/img/company_logos/flower.jpg" style="height: 60px; width: auto;">
+        <div style="line-height: 1.4;">
+          <div style="font-weight: bold; font-size: 16px;">Research Scientist Intern</div>
+          <div style="font-style: italic;">Flower Labs — Oct 2022 to July 2023</div>
         </div>
       </div>
 
