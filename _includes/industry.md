@@ -12,7 +12,7 @@
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
           <div class="title">Research Consultant</div>
-          <div class="periodical"><a href="https://www.merl.com/">MERL</a> — April 2025 to Present</div>
+          <div class="periodical"><a href="https://www.merl.com/">MERL</a> — Apr 2025 to Present</div>
           <div class="periodical">Advised by Chiori Hori, Diego Romeres</div>
         </div>
       </div>
@@ -26,7 +26,7 @@
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
           <div class="title">Research Collaborator</div>
-          <div class="periodical"><a href="https://ai.meta.com/research/#fundamental-and-applied">FAIR, Meta</a> — June 2024 to April 2025</div>
+          <div class="periodical"><a href="https://ai.meta.com/research/#fundamental-and-applied">FAIR, Meta</a> — June 2024 to Apr 2025</div>
           <div class="periodical">Advised by Xavier Puig, Ruta Desai</div>
         </div>
       </div>
@@ -40,7 +40,7 @@
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
           <div class="title">Applied Scientist Intern</div>
-          <div class="periodical"><a href="https://www.roku.com/en-gb/">Roku</a> — Jul 2024 to Oct 2024</div>
+          <div class="periodical"><a href="https://www.roku.com/en-gb/">Roku</a> — July 2024 to Oct 2024</div>
           <div class="periodical">Advised by Michael Sanders</div>
         </div>
       </div>
