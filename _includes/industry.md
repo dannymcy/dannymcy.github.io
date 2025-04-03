@@ -11,7 +11,7 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
-          <div class="title">Research Consultant</div>
+          <div class="title">Research Scientist Intern</div>
           <div class="periodical"><a href="https://research.ibm.com/">MERL</a> — June 2025 (incoming)</div>
           <div class="periodical">Advised by Geeth de Mel</div>
         </div>
