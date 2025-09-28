@@ -17,7 +17,7 @@ Prior to my Ph.D., I worked as a research assistant in [Cambridge Machine Learni
 
 My main research interest focuses on developing embodied (robotic) and AI agents in open-world settings. My Ph.D. work mainly builds on three closely-related questions:
 
-1. How can we enhance agents' reasoning and planning capabilities in dynamic environments, bridging the gap between visual perception, task descriptions, and low-level actions? I explore both improving the capabilities of VLMs/VLAs themselves and designing hierarchical agentic systems that integrate perception, planning, and control.
+1. How can we enhance agents' reasoning and planning capabilities in dynamic environments, bridging the gap between visual perception, task descriptions, and low-level actions? I explore both improving the capabilities of VLMs/VLAs themselves and designing hierarchical agentic systems.
 2. How can agents self-correct or refactor their plans and actions, with or without human feedback?
 3. How can we enable agents that can collaborate with humans, accommodating individual preferences, safety needs, and spontaneous intentions?
 
