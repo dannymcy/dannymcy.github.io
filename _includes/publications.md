@@ -61,7 +61,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">KitchenVLA: Iterative Vision-Language Corrections for Robotic Execution of Human Tasks</div>
-    <div class="author">Kai Lu, <strong>Chenyang Ma<strong>, Chiori Hori, Diego Romeres</div>
+    <div class="author">Kai Lu, <strong>Chenyang Ma</strong>, Chiori Hori, Diego Romeres</div>
     <div class="periodical"><em><strong>Workshop on Safe-VLM (ICRA)</strong>, 2025.</em></div>
     <div class="links">
       <!-- <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
