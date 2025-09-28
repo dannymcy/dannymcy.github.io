@@ -13,8 +13,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance
-      <span class="spotlight-tag">✨ Spotlight</span>
+    <div class="title-row">
+      <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
+      <span class="spotlight-pill">✨ Spotlight</span>
     </div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
     <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em></div>

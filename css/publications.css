@@ -1,23 +1,31 @@
-/* Use a different class name to avoid conflicts */
-.spotlight-tag {
-  display: inline-block !important;
-  background: linear-gradient(135deg, #10B981, #34D399) !important;
-  color: white !important;
-  padding: 2px 8px !important;
-  border-radius: 6px !important;
-  font-size: 11px !important;
-  font-weight: 700 !important;
-  text-transform: uppercase !important;
-  letter-spacing: 0.5px !important;
-  box-shadow: 0 2px 4px rgba(16, 185, 129, 0.2) !important;
-  margin-left: 8px !important;
-  white-space: nowrap !important;
-  vertical-align: baseline !important;
+/* Spotlight pill (ensure background shows) */
+span.spotlight-pill {
+  display: inline-block;
+  background: linear-gradient(135deg, #10B981, #34D399);
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 4px rgba(16,185,129,0.2);
+  margin-left: 8px;
+  white-space: nowrap;
+  vertical-align: baseline;
 }
 
-.publications ol.bibliography li .title {
+/* Keep pill on SAME line as title */
+.publications ol.bibliography li .title-row {
+  display: inline-flex;          /* inline so it sits with surrounding content, flex for row layout */
+  align-items: baseline;         /* align text baselines */
+  gap: 8px;                      /* space between title and pill (backup for margin-left) */
+  margin-bottom: 0.5rem;
+}
+
+.publications ol.bibliography li .title-row .title {
+  display: inline;               /* keep as inline text */
   font-weight: bolder;
-  display: inline;
 }
 
 .badge {
