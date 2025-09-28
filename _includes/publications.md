@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">EmbeWebAgent: Embedding Web Agents into Any Customized UI</div>
     <div class="author"><strong>Chenyang Ma</strong>, Clyde Fare, Matthew Wilson, Dave Braines</div>
-    <div class="periodical"><em><strong>Submitted to AAAI Demonstration Track</strong>, 2026.</em></div>
+    <div class="periodical"><em><strong>Submitted to AAAI Demonstration Track</strong>, 2026</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -38,7 +38,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
-    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em>
+    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025</em>
       <span style="display: inline-block !important; background: linear-gradient(135deg, #FF2800, #DC143C) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 14px !important; font-weight: 700 !important; font-style: normal !important; margin-left: 0px !important;">Spotlight</span>
     </div>
     <div class="links">
@@ -62,7 +62,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">KitchenVLA: Iterative Vision-Language Corrections for Robotic Execution of Human Tasks</div>
     <div class="author">Kai Lu, <strong>Chenyang Ma</strong>, Chiori Hori, Diego Romeres</div>
-    <div class="periodical"><em><strong>Workshop on Safe-VLM (ICRA)</strong>, 2025.</em></div>
+    <div class="periodical"><em><strong>Workshop on Safe-VLM (ICRA)</strong>, 2025</em></div>
     <div class="links">
       <!-- <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="https://www.merl.com/publications/docs/TR2025-068.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -84,7 +84,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ta-Ying Cheng, Niki Trigoni, Andrew Markham</div>
-    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2024</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2403.13438" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -106,7 +106,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates</div>
     <div class="author"><strong>Chenyang Ma</strong>, Xinchi Qiu, Daniel Beutel, Nicholas Lane</div>
-    <div class="periodical"><em><strong>Workshop on Machine Learning and Systems (EuroMLSys)</strong>, 2023.</em></div>
+    <div class="periodical"><em><strong>Workshop on Machine Learning and Systems (EuroMLSys)</strong>, 2023</em></div>
     <div class="links">
       <a href="https://flower.ai/blog/2023-04-19-xgboost-with-flower/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2304.07537" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -129,7 +129,7 @@
     <div class="title">Touch and Go: Learning from Human-Collected Vision and Touch</div>
     <div class="author">Fengyu Yang*, <strong>Chenyang Ma*</strong>, Jiacheng Zhang, Jing Zhu, Wenzhen Yuan, Andrew Owens (*=Equal Contribution)
     </div>
-    <div class="periodical"><em><strong>NeurIPS Datasets and Benchmarks Track</strong>, 2022.</em></div>
+    <div class="periodical"><em><strong>NeurIPS Datasets and Benchmarks Track</strong>, 2022</em></div>
     <div class="links">
       <a href="https://touch-and-go.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2211.12498" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -158,7 +158,7 @@
     <div class="title">Sparse and Complete Latent Organization for Geospatial Semantic Segmentation</div>
     <div class="author">Fengyu Yang*, <strong>Chenyang Ma*</strong> (*=Equal Contribution)
     </div>
-    <div class="periodical"><em><strong>Computer Vision and Patter Recognition (CVPR)</strong>, 2022.</em></div>
+    <div class="periodical"><em><strong>Computer Vision and Patter Recognition (CVPR)</strong>, 2022</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Sparse_and_Complete_Latent_Organization_for_Geospatial_Semantic_Segmentation_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
