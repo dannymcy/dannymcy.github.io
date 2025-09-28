@@ -1,22 +1,29 @@
-.spotlight-pill {
+/* Make the selector more specific to override .badge */
+span.spotlight-pill {
   display: inline-block;
-  background: linear-gradient(135deg, #10B981, #34D399);
-  color: white;
-  padding: 3px 10px;
-  border-radius: 6px;
-  font-size: 11px;
-  font-weight: 700;
+  background: linear-gradient(135deg, #10B981, #34D399) !important;
+  color: white !important;
+  padding: 2px 8px !important;
+  border-radius: 6px !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  box-shadow: 0 2px 4px rgba(16, 185, 129, 0.2);
-  margin-left: 10px;
+  box-shadow: 0 2px 4px rgba(16, 185, 129, 0.2) !important;
+  margin-left: 8px;
+  white-space: nowrap;
+  vertical-align: baseline;
+  position: relative;
+  top: -1px;
 }
 
 .title-row {
-  display: flex;
-  align-items: baseline;
-  gap: 0;
-  flex-wrap: wrap;
+  display: inline;  /* Changed to inline to flow naturally */
+}
+
+.title-row .title {
+  display: inline;  /* Title displays inline */
+  font-weight: bolder;  /* Keep your original bold styling */
 }
 
 .badge {
