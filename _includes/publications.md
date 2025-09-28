@@ -14,10 +14,9 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance
-      <span style="display: inline-block; margin-left: 8px; padding: 2px 8px; border: 2px solid #10B981; color: #10B981; border-radius: 6px; font-size: 11px; font-weight: 700; text-transform: uppercase;">Spotlight</span>
+      <span class="spotlight-tag">✨ Spotlight</span>
     </div>
-    <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)
-    </div>
+    <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
     <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/coopera/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -28,7 +27,6 @@
 
 </div>
 <br>
-
 
 <div class="pub-row">
 

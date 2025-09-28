@@ -1,31 +1,23 @@
-/* Make the selector more specific to override .badge */
-span.spotlight-pill {
-  display: inline-block;
+/* Use a different class name to avoid conflicts */
+.spotlight-tag {
+  display: inline-block !important;
   background: linear-gradient(135deg, #10B981, #34D399) !important;
   color: white !important;
   padding: 2px 8px !important;
   border-radius: 6px !important;
   font-size: 11px !important;
   font-weight: 700 !important;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
   box-shadow: 0 2px 4px rgba(16, 185, 129, 0.2) !important;
-  margin-left: 8px;
-  white-space: nowrap;
-  vertical-align: baseline;
-  position: relative;
-  top: -1px;
+  margin-left: 8px !important;
+  white-space: nowrap !important;
+  vertical-align: baseline !important;
 }
 
-/* Remove the previous .title-row rules and use this instead */
-.publications ol.bibliography li .title-row {
-  display: block;  /* Block to take full width */
-  margin-bottom: 0.5rem;  /* Add some space after */
-}
-
-.publications ol.bibliography li .title-row .title {
-  display: inline;  /* Title displays inline */
-  font-weight: bolder;  /* This overrides the existing .title rule */
+.publications ol.bibliography li .title {
+  font-weight: bolder;
+  display: inline;
 }
 
 .badge {
