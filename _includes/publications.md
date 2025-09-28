@@ -39,7 +39,7 @@
     <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
     <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em>
-      <span style="display: inline-block !important; background: linear-gradient(135deg, #10B981, #34D399) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 11px !important; font-weight: 700 !important; margin-left: 6px !important;">✨ Spotlight</span>
+      <span style="display: inline-block !important; background: linear-gradient(135deg, #10B981, #34D399) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 14px !important; font-weight: 700 !important; font-style: normal !important; margin-left: 4px !important;">✨ Spotlight</span>
     </div>
     <div class="links">
       <a href="https://dannymcy.github.io/coopera/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
