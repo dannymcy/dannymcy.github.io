@@ -107,7 +107,7 @@
     <div class="title">Touch and Go: Learning from Human-Collected Vision and Touch</div>
     <div class="author">Fengyu Yang*, <strong>Chenyang Ma*</strong>, Jiacheng Zhang, Jing Zhu, Wenzhen Yuan, Andrew Owens (*=Equal Contribution)
     </div>
-    <div class="periodical"><em><strong>NeurIPS Datasets and Benchmarks</strong>, 2022.</em></div>
+    <div class="periodical"><em><strong>NeurIPS Datasets and Benchmarks Track</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://touch-and-go.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2211.12498" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
