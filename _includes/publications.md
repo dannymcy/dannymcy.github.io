@@ -13,9 +13,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title-row">
-      <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
-      <span class="spotlight-pill">✨ Spotlight</span>
+    <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance
+      <span style="display: inline-block !important; background: linear-gradient(135deg, #10B981, #34D399) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 11px !important; font-weight: 700 !important; text-transform: uppercase !important; margin-left: 8px !important;">✨ Spotlight</span>
     </div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
     <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em></div>
