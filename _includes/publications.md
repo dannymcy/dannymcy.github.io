@@ -13,9 +13,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title-row">
-      <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
-      <span class="spotlight-pill">✨ Spotlight</span>
+    <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance
+      <span style="display: inline-block; margin-left: 8px; padding: 2px 8px; border: 2px solid #10B981; color: #10B981; border-radius: 6px; font-size: 11px; font-weight: 700; text-transform: uppercase;">Spotlight</span>
     </div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)
     </div>
@@ -29,6 +28,7 @@
 
 </div>
 <br>
+
 
 <div class="pub-row">
 
