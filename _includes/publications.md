@@ -55,6 +55,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/kitchenvla.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICRA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">KitchenVLA: Iterative Vision-Language Corrections for Robotic Execution of Human Tasks</div>
+    <div class="author">Kai Lu, <strong>Chenyang Ma<strong>, Chiori Hori, Diego Romeres</div>
+    <div class="periodical"><em><strong>Workshop on Safe-VLM (ICRA)</strong>, 2025.</em></div>
+    <div class="links">
+      <!-- <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://www.merl.com/publications/docs/TR2025-068.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <!-- <a href="https://github.com/dannymcy/zeroshot_task_hallucination_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+
+</div>
+<br>
+
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/spatialpin.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
