@@ -5,6 +5,29 @@
 
 <li>
 
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/embewebagent.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">EmbeWebAgent: Embedding Web Agents into Any Customized UI</div>
+    <div class="author"><strong>Chenyang Ma</strong>, Clyde Fare, Matthew Wilson, Dave Braines</div>
+    <div class="periodical"><em><strong>Submitted to AAAI Demonstration Track</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <!-- <a href="https://github.com/dannymcy/zeroshot_task_hallucination_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+
+</div>
+<br>
+\
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -13,11 +36,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance
-      <span style="display: inline-block !important; background: linear-gradient(135deg, #10B981, #34D399) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 11px !important; font-weight: 700 !important; text-transform: uppercase !important; margin-left: 8px !important;">✨ Spotlight</span>
-    </div>
+    <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)</div>
-    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em></div>
+    <div class="periodical"><em><strong>Neural Information Processing Systems (NeurIPS)</strong>, 2025.</em>
+      <span style="display: inline-block !important; background: linear-gradient(135deg, #10B981, #34D399) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 11px !important; font-weight: 700 !important; margin-left: 8px !important;">✨ Spotlight</span>
+    </div>
     <div class="links">
       <a href="https://dannymcy.github.io/coopera/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -27,6 +50,7 @@
 
 </div>
 <br>
+
 
 <div class="pub-row">
 
