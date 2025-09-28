@@ -9,23 +9,23 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/hri.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Preprint</abbr>
+    <abbr class="badge">NeurIPS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">COOPERA: Continual Open-Ended Human-Robot Assistance</div>
     <div class="author"><strong>Chenyang Ma</strong>, Kai Lu, Ruta Desai*, Xavier Puig*, Andrew Markham*, Niki Trigoni (*=Equal Advising)
     </div>
-    <div class="periodical"><em><strong>Under Submission</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>NeurIPS</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/coopera/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dannymcy.github.io/assets/files/Chenyang_Ma_HRI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/dannymcy/coopera_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Spotlight</i></strong>
     </div>
   </div>
 
