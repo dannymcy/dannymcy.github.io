@@ -63,6 +63,8 @@
     <div class="title">KitchenVLA: Iterative Vision-Language Corrections for Robotic Execution of Human Tasks</div>
     <div class="author">Kai Lu, <strong>Chenyang Ma</strong>, Chiori Hori, Diego Romeres</div>
     <div class="periodical"><em><strong>Workshop on Safe-VLM (ICRA)</strong>, 2025</em></div>
+      <span style="display: inline-block !important; background: linear-gradient(135deg, #FF2800, #DC143C) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 14px !important; font-weight: 700 !important; font-style: normal !important; margin-left: 3px !important;">Spotlight</span>
+    </div>
     <div class="links">
       <!-- <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="https://www.merl.com/publications/docs/TR2025-068.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
