@@ -20,7 +20,7 @@
     <div class="links">
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+      <a href="https://drive.google.com/file/d/1bS7UFjjts6FVfLJWaKBZMxm5w5qaHA1w/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
     </div>
   </div>
 
