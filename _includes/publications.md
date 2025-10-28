@@ -43,7 +43,7 @@
     </div>
     <div class="links">
       <a href="https://dannymcy.github.io/coopera/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://arxiv.org/abs/2510.23495" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/dannymcy/coopera_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
