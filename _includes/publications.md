@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding</div>
     <div class="author"><strong>Chenyang Ma</strong>, Guangyu Yang, Kai Lu, Shitong Xu, Bill Byrne, Niki Trigoni, Andrew Markham</div>
-    <div class="periodical"><em><strong>ArXiv</strong>, 2025</em></div>
+    <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/cyclevla/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
