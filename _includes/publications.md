@@ -19,7 +19,7 @@
     <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
     <div class="links">
       <a href="https://dannymcy.github.io/cyclevla/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dannymcy.github.io/assets/files/placefolder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://arxiv.org/abs/2601.02295" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/dannymcy/cyclevla_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
