@@ -14,7 +14,7 @@
           <div class="title"><a href="https://www.merl.com/">MERL</a></div>
           <div class="periodical"><span style="font-weight: bold;">Research Scientist Intern</span> — Nov 2025 to Apr 2026</div>
           <div class="periodical"><span style="font-weight: bold;">Research Consultant</span> — Apr 2025 to Sept 2025</div>
-          <div class="periodical">Advised by Chiori Hori, Diego Romeres</div>
+          <div class="periodical">Advised by Diego Romeres, Chiori Hori</div>
         </div>
       </div>
       <br>
@@ -42,7 +42,7 @@
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;display: flex;flex-direction: column;justify-content: center;">
           <div class="title">Research Consultant</div>
           <div class="periodical"><a href="https://www.merl.com/">MERL</a> — Apr 2025 to Sept 2025</div>
-          <div class="periodical">Advised by Chiori Hori, Diego Romeres</div>
+          <div class="periodical">Advised by Diego Romeres, Chiori Hori</div>
         </div>
       </div>
       <br> -->
