@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2022 - 2025</autocolor></a></li>
   <li><a href="https://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023 - 2026</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2022 - 2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
