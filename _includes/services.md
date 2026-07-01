@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>ECCV (2026–), ICCV (2025–), CVPR (2023–), NeurIPS (2022–)</li>
+  <li><autocolor>ECCV (2026–), ICCV (2025–), CVPR (2023–), NeurIPS (2022–)</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
