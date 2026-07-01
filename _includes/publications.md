@@ -38,7 +38,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">EmbeWebAgent: Embedding Web Agents into Any Customized UI</div>
     <div class="author"><strong>Chenyang Ma</strong>, Clyde Fare, Matthew Wilson, Dave Braines</div>
-    <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
+    <div class="periodical"><em><strong>Technical Report</strong>, 2026</em></div>
     <div class="links">
       <a href="https://research.ibm.com/projects/safer-materials-advisor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2602.14865" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
