@@ -23,7 +23,7 @@ My research focuses on developing embodied (robotic) and AI agents in open-world
 2. How can agents self-correct or refactor their plans and actions, with or without human feedback?
 3. How can we enable agents that can collaborate with humans, accommodating individual preferences, safety needs, and spontaneous intentions?
 
-On the side, I also enjoy working with vision applications that utilize various modalities (Vision, Tactile) and AI methods that are less centralized and more collaborative (Federated Learning).
+On the side, I also enjoy working with vision applications that utilize various modalities (Vision, Tactile, 3D) and AI methods that are less centralized and more collaborative (Federated Learning).
 
 <!-- So far, my Ph.D. work falls in the intersection of 3D Understanding, Robot Learning, and Computer Vision. -->
 <!-- 1. Most agents today use VLMs/VLAs as their core reasoning component. How can we enhance their reasoning and planning capabilities in dynamic 3D environments, and bridge the gap from visual perception and task descriptions to low-level actions?
