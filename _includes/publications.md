@@ -52,6 +52,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/cairn.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models</div>
+    <div class="author">He Liang, <strong>Chenyang Ma</strong>, Yiming Zhang, Sangyun Shin, Andrew Markham, Niki Trigoni, Yuhang He</div>
+    <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
+    <div class="links">
+      <a href="https://oceansdepp.github.io/cairn_web/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/pdf/2607.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/USER/CAIRN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+<br>
+
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/embewebagent.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv</abbr>
   </div>
