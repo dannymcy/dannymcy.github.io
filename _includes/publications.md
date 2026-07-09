@@ -62,7 +62,7 @@
     <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
     <div class="links">
       <a href="https://oceansdepp.github.io/cairn_web/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://arxiv.org/pdf/2607.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://arxiv.org/abs/2607.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/USER/CAIRN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
