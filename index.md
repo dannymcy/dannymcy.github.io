@@ -8,7 +8,7 @@ I am a third-year Ph.D. candidate in Computer Science at the [University of Oxfo
 
 Prior to my Ph.D., I worked as a research assistant in [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), supervised by Prof. [Nicholas Lane](https://niclane.org/). I obtained my B.S.E. degree from [University of Michigan](https://umich.edu/), completing multiple projects under the guidances of Prof. [Andrew Owens](https://andrewowens.com/), Prof. [Wenzhen Yuan](https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz), and Prof. [Paul Green](https://www.umtri.umich.edu/people/green-paul-a/).
 
-<p><span style="display: inline-block !important; background: #8BBB92 !important; color: black !important; padding: 6px 12px !important; border-radius: 6px !important; font-weight: 700 !important; font-style: normal !important;">I enjoy collaborating on research and projects. Feel free to reach out if you are interested in a potential collaboration!</span></p>
+<p><span style="display: inline-block !important; background: #BCD9A2 !important; color: black !important; padding: 6px 12px !important; border-radius: 6px !important; font-weight: 700 !important; font-style: normal !important;">I enjoy collaborating on research and projects. Feel free to reach out if you are interested in a potential collaboration!</span></p>
 
 <!-- <p style="color:red;">I am actively looking for a research internship for Summer 2025. Feel free to contact me for any research opportunities!</p> -->
 
