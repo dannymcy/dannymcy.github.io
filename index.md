@@ -2,13 +2,39 @@
 layout: homepage
 ---
 
+{% comment %}
+------------------------------------------------------------------
+PREVIEW THIS SITE LOCALLY (no push to GitHub required)
+
+Run inside WSL, from the repo root:
+
+    JEKYLL_NO_BUNDLER_REQUIRE=true jekyll serve --livereload
+
+Then open http://localhost:4000 in your browser.
+It watches the repo, so saving index.md / _includes/*.md / _sass/*.scss
+rebuilds and refreshes the page automatically. Ctrl-C to stop.
+
+One-time setup already done on this machine (WSL Ubuntu):
+
+    sudo apt-get install -y ruby-full build-essential zlib1g-dev
+    sudo gem install jekyll --no-document
+
+Why JEKYLL_NO_BUNDLER_REQUIRE: the Gemfile pins the `github-pages`
+gem bundle, which is NOT installed here (it pulls ~90 gems and is very
+slow to resolve). Plain Jekyll 4.x renders this site fine, and the env
+var tells Jekyll to skip the Gemfile instead of erroring. This also
+means `bundle exec jekyll serve` will NOT work.
+------------------------------------------------------------------
+{% endcomment %}
+
 ## About Me
 
 I am a third-year Ph.D. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and Prof. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni). My study is generously funded by the EPSRC DTP International Doctoral Scholarship. I had the privilege of collaborating closely with [Xavier Puig](https://www.xavierpuigf.com/) and [Ruta Desai](https://rutadesai.github.io/) at [FAIR, Meta](https://ai.meta.com/research/#fundamental-and-applied), and with [Diego Romeres](https://scholar.google.com/citations?user=KoO7Z04AAAAJ&hl=en) and [Chiori Hori](https://www.merl.com/people/chori) at [Mitsubishi Robotics](https://www.merl.com/research/robotics). I also spent wonderful times interning at [IBM](https://research.ibm.com/) (2025), [Roku](https://www.roku.com/en-gb/) (2024), and [Flower Labs](https://flower.ai/) (2023).
 
 Prior to my Ph.D., I worked as a research assistant in [Cambridge Machine Learning Systems Lab](https://mlsys.cst.cam.ac.uk/), supervised by Prof. [Nicholas Lane](https://niclane.org/). I obtained my B.S.E. degree from [University of Michigan](https://umich.edu/), completing multiple projects under the guidances of Prof. [Andrew Owens](https://andrewowens.com/), Prof. [Wenzhen Yuan](https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz), and Prof. [Paul Green](https://www.umtri.umich.edu/people/green-paul-a/).
 
-<p><span style="display: inline-block !important; background: #E5EEE4 !important; color: black !important; padding: 6px 12px !important; border-radius: 6px !important; font-weight: 700 !important; font-style: normal !important;">I enjoy collaborating on research and projects. Feel free to reach out if you are interested in a potential collaboration!</span></p>
+<p><span style="display: inline-block !important; background: #CAE8BD !important; color: black !important; padding: 6px 12px !important; border-radius: 6px !important; font-weight: 700 !important; font-style: normal !important;">I enjoy collaborating on research and projects. Feel free to reach out if you are interested in a potential collaboration!</span></p>
+<!-- D9E9CF -->
 
 <!-- <p style="color:red;">I am actively looking for a research internship for Summer 2025. Feel free to contact me for any research opportunities!</p> -->
 
