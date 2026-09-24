@@ -131,7 +131,7 @@
       <span style="display: inline-block !important; background: linear-gradient(135deg, #FF2800, #DC143C) !important; color: white !important; padding: 2px 8px !important; border-radius: 6px !important; font-size: 14px !important; font-weight: 700 !important; font-style: normal !important; margin-left: 3px !important;">Spotlight</span>
     </div>
     <div class="links">
-      <!-- <a href="https://dannymcy.github.io/zeroshot_task_hallucination/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://kl-research.github.io/kitchenvlm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://www.merl.com/publications/docs/TR2025-068.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <!-- <a href="https://github.com/dannymcy/zeroshot_task_hallucination_code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
     </div>
