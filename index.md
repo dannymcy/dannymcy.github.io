@@ -8,11 +8,15 @@ PREVIEW THIS SITE LOCALLY (no push to GitHub required)
 
 Run inside WSL, from the repo root:
 
-    JEKYLL_NO_BUNDLER_REQUIRE=true jekyll serve --livereload
+    JEKYLL_NO_BUNDLER_REQUIRE=true jekyll serve --livereload --force_polling
 
 Then open http://localhost:4000 in your browser.
 It watches the repo, so saving index.md / _includes/*.md / _sass/*.scss
 rebuilds and refreshes the page automatically. Ctrl-C to stop.
+
+Why --force_polling: the repo lives on the Windows drive (/mnt/c), and
+WSL does not deliver file-change events from there, so without polling
+Jekyll never notices your saves and the page does not live-update.
 
 One-time setup already done on this machine (WSL Ubuntu):
 
