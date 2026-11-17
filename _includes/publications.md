@@ -100,7 +100,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">EmbeWebAgent: Embedding Web Agents into Any Customized UI</div>
+    <div class="title">EmbeWebAgent: Embedding Web Agents into Custom Enterprise UIs</div>
     <div class="author"><strong>Chenyang Ma</strong>, Clyde Fare, Matthew Wilson, Dave Braines</div>
     <div class="periodical"><em><strong>Technical Report</strong>, 2026</em></div>
     <div class="links">
