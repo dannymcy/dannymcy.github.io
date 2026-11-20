@@ -61,8 +61,8 @@
     <div class="author">Kai Lu, <strong>Chenyang Ma</strong>, Ioannis Havoutis</div>
     <div class="periodical"><em><strong>ArXiv</strong>, 2026</em></div>
     <div class="links">
-      <a href="https://dannymcy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dannymcy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://kl-research.github.io/pgx/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2611.26596" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
   </div>
 
